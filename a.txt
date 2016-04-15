@@ -1,0 +1,7 @@
+total 20
+-rw-rw-r-- 1 martin martin    0 Apr 15 18:13 a.txt
+drwxrwxr-x 3 martin martin 4096 Apr 15 18:12 bin
+-rw-rw-r-- 1 martin martin  254 Apr 15 18:12 build.properties
+drwxrwxr-x 2 martin martin 4096 Apr 15 18:12 lib
+drwxrwxr-x 2 martin martin 4096 Apr 15 18:12 META-INF
+drwxrwxr-x 3 martin martin 4096 Apr 15 18:12 src
